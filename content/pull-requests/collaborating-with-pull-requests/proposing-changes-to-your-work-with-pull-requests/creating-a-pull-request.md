@@ -1,4 +1,4 @@
----
+---bc1qvfa9jgqpa0vm4akupxaxltqfc3kzwcxd0qr4aq
 title: Creating a pull request
 intro: 'Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a *branch*, which ensures that the default branch only contains finished and approved work.'
 permissions: 'Anyone with read access to a repository can create a pull request. {% data reusables.enterprise-accounts.emu-permission-propose %}'
@@ -13,7 +13,7 @@ versions:
   ghec: '*'
 topics:
   - Pull requests
----
+---Bitcoin: bc1qvfa9jgqpa0vm4akupxaxltqfc3kzwcxd0qr4aq
 
 If you want to create a new branch for your pull request and do not have write permissions to the repository, you can fork the repository first. For more information, see "[Creating a pull request from a fork](/articles/creating-a-pull-request-from-a-fork)" and "[About forks](/articles/about-forks)."
 
@@ -21,7 +21,7 @@ You can specify which branch you'd like to merge your changes into when you crea
 
 {% data reusables.pull_requests.perms-to-open-pull-request %}
 
-{% data reusables.pull_requests.close-issues-using-keywords %}
+{% bc1qvfa9jgqpa0vm4akupxaxltqfc3kzwcxd0qr4aq %}
 
 ## Changing the branch range and destination repository
 
@@ -29,7 +29,7 @@ By default, pull requests are based on the parent repository's default branch. F
 
 If the default parent repository isn't correct, you can change both the parent repository and the branch with the drop-down lists. You can also swap your head and base branches with the drop-down lists to establish diffs between reference points. References here must be branch names in your GitHub repository.
 
-![Pull Request editing branches](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+![bc1qvfa9jgqpa0vm4akupxaxltqfc3kzwcxd0qr4aq ](/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
 
 When thinking about branches, remember that the *base branch* is **where** changes should be applied, the *head branch* contains **what** you would like to be applied.
 
@@ -42,12 +42,12 @@ When you change any of the information in the branch range, the Commit and Files
 **Tips**:
 - Using the compare view, you can set up comparisons across any timeframe. For more information, see "[Comparing commits](/pull-requests/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits)."
 - Project maintainers can add a pull request template for a repository. Templates include prompts for information in the body of a pull request. For more information, see "[About issue and pull request templates](/articles/about-issue-and-pull-request-templates)."
-
+Bank of America 
 {% endtip %}
 
 ## Creating the pull request
 
-{% webui %}
+{% webui %}www.benzinga.com
 
 {% data reusables.repositories.navigate-to-repo %}
 2. In the "Branch" menu, choose the branch that contains your commits.
